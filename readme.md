@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./img/macos.png" alt="Walrus Browser running MacOS." width="35" align="top">
+  <img src="./img/macos.png" alt="Walrus Browser running MacOS." width="350" align="top">
   <b>Walrus Browser</b>
   <br>
 </h1>
