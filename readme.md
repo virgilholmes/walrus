@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./img/macos.png" alt="Walrus Browser running MacOS." width="400" align="top">
+  <img src="./img/logo.png" alt="Walrus Browser Logo.">
   <b>Walrus Browser</b>
   <br>
 </h1>
@@ -22,18 +22,29 @@
 
 ## Download
 
-The latest binaries are available on the [releases page](https://github.com/virgilholmes/walrus/releases/).
+The latest compiled versions are available on the [releases page](https://github.com/virgilholmes/walrus/releases/).
 
 ## Compile
 
 The only build i have for this is macOS. I only have a macbook and thats what its build for. If you have any other OS and would like to build, get in touch with me on <a href="https://twitter.com/virgilholmes404/">twitter</a>.
 here are the steps for building on macOS,
+
+download the icon.icns file and put it in the root folder of the walrus.py
+<a href="https://download.mrsn0ww0lf.repl.co/walrus/mac/icon.incs" download>icon.icns download</a>
 ```
 pip install py2app
 ```
-then download the setup script 
+then download the setup script and put it in the root folder 
 <a href="https://download.mrsn0ww0lf.repl.co/walrus/mac/setup.py" download>setup.py download</a>
-## Running the Python code:
+```
+python3 setup.py py2app
+```
+then in the dist folder, the walrus browser.app should be there.
+## Run just the Python code:
+```
+git clone https://github.com/virgilholmes/walrus/
+```
+
 ```
 pip install PyQt5
 ```
@@ -48,7 +59,7 @@ py walrus.py
 ```
 ## Usage
 
-Walrus opens a graphical interface. 
+Walrus opens a graphical interface. You have page forward,page back, and a refresh button. You have a home button that leads to a simple html website about this project. The normal new tab site is Google. The Bar at the top does NOT do a search, you must go to the exact webpage.
 
 
 
