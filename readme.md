@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#download">Download</a> •
-  <a href="#compile">Compile</a> •
+  <a href="#compile">Compiling</a> •
   <a href="#running">Running</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a>
@@ -32,7 +32,7 @@ The only build i have for this is macOS. I only have a macbook and thats what it
 here are the steps for building on macOS,
 
 download the icon.icns file and put it in the root folder of the walrus.py
-<a href="https://download.mrsn0ww0lf.repl.co/walrus/mac/icon.incs" download>icon.icns download</a>
+<a href="https://download.mrsn0ww0lf.repl.co/walrus/mac/icon.icns" download>icon.icns download</a>
 ```
 pip install py2app
 ```
