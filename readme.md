@@ -24,10 +24,16 @@
 
 The latest binaries are available on the [releases page](https://github.com/virgilholmes/walrus/releases/).
 
-## Building
-The only build i have for this is macOS. I only have a macbook and thats what its build for. If you have any other OS and would like to build, get in touch with me on <a href="https://twitter.com/virgilholmes404/">twitter</a>.
-here are the steps for building.
+## Compile
 
+The only build i have for this is macOS. I only have a macbook and thats what its build for. If you have any other OS and would like to build, get in touch with me on <a href="https://twitter.com/virgilholmes404/">twitter</a>.
+here are the steps for building on macOS,
+```
+pip install py2app
+```
+then download the setup script 
+<a href="https://download.mrsn0ww0lf.repl.co/walrus/mac/setup.py" download>setup.py download</a>
+## Running the Python code:
 ```
 pip install PyQt5
 ```
