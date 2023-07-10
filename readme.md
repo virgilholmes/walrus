@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./img/logo.png" alt="Walrus Browser Logo.">
+  <img src="./logo.png" alt="Walrus Browser Logo.">
   <b>Walrus Browser</b>
   <br>
 </h1>
