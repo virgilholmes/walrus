@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="#download">Download</a> •
-  <a href="#building">Building</a> •
+  <a href="#compile">Compile</a> •
+  <a href="#run the python code">Run the python code</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a>
 </p>
@@ -41,7 +42,7 @@ then download the setup script and put it in the root folder
 python3 setup.py py2app
 ```
 then in the dist folder, the walrus browser.app should be there.
-## Run just the Python code:
+## Run the Python code:
 ```
 git clone https://github.com/virgilholmes/walrus/
 ```
