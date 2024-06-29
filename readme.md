@@ -28,7 +28,7 @@ The latest compiled versions are available on the [releases page](https://github
 
 ## Compile
 
-The only build i have for this is macOS. I only have a macbook and thats what its build for. If you have any other OS and would like to build, get in touch with me on <a href="https://twitter.com/virgilholmes404/">twitter</a>.
+The only build i have for this is macOS. I only have a macbook and thats what its build for. If you have any other OS and would like to build, get in touch with me on <a href="https://twitter.com/snowtechsupport/">twitter</a>.
 here are the steps for building on macOS,
 
 do the first 4 steps in <a href="#running">Running</a> then do this to compile this code.
